@@ -1,8 +1,8 @@
 # best-cooking-game-20261125-0137
 
 [![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
-[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/bro-jack/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
-[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/bro-jack/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/bro-jack/neon-ramen-rush/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/bro-jack/neon-ramen-rush/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **Neon Ramen Rush** — a 3D cooking game set in a neon Tokyo ramen shop at night. 12 Japanese dishes across 3 levels in one 3-minute shift: Buka Kedai, Jam Makan Siang, Neon Rush — with VIP customers, burning food, combos and tips. Cook Ramen Shoyu, Ramen Tonkotsu, Sushi Salmon, Sushi Tuna, Gyoza, Tempura Ebi, Tonkatsu, Miso Soup, Takoyaki, Yakitori, Matcha Latte and Mochi before your customers walk out. Rendered in real-time 3D (Three.js, vendored locally) with neon signs, paper lanterns, ramen steam, fire under the broth pot, a wet neon street and four customers whose moods change with their patience. Screenshots are ultra HD (3x supersampled at 1280×720).
 
